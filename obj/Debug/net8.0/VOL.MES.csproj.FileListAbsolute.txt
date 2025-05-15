@@ -1,0 +1,17 @@
+D:\Develop\Develop_API\源代码\vol.api\VOL.MES\bin\Debug\net8.0\VOL.MES.deps.json
+D:\Develop\Develop_API\源代码\vol.api\VOL.MES\bin\Debug\net8.0\VOL.MES.dll
+D:\Develop\Develop_API\源代码\vol.api\VOL.MES\bin\Debug\net8.0\VOL.MES.pdb
+D:\Develop\Develop_API\源代码\vol.api\VOL.MES\bin\Debug\net8.0\VOL.Core.dll
+D:\Develop\Develop_API\源代码\vol.api\VOL.MES\bin\Debug\net8.0\VOL.Entity.dll
+D:\Develop\Develop_API\源代码\vol.api\VOL.MES\bin\Debug\net8.0\VOL.Core.pdb
+D:\Develop\Develop_API\源代码\vol.api\VOL.MES\bin\Debug\net8.0\VOL.Entity.pdb
+D:\Develop\Develop_API\源代码\vol.api\VOL.MES\obj\Debug\net8.0\VOL.MES.csproj.AssemblyReference.cache
+D:\Develop\Develop_API\源代码\vol.api\VOL.MES\obj\Debug\net8.0\VOL.MES.GeneratedMSBuildEditorConfig.editorconfig
+D:\Develop\Develop_API\源代码\vol.api\VOL.MES\obj\Debug\net8.0\VOL.MES.AssemblyInfoInputs.cache
+D:\Develop\Develop_API\源代码\vol.api\VOL.MES\obj\Debug\net8.0\VOL.MES.AssemblyInfo.cs
+D:\Develop\Develop_API\源代码\vol.api\VOL.MES\obj\Debug\net8.0\VOL.MES.csproj.CoreCompileInputs.cache
+D:\Develop\Develop_API\源代码\vol.api\VOL.MES\obj\Debug\net8.0\VOL.MES.csproj.Up2Date
+D:\Develop\Develop_API\源代码\vol.api\VOL.MES\obj\Debug\net8.0\VOL.MES.dll
+D:\Develop\Develop_API\源代码\vol.api\VOL.MES\obj\Debug\net8.0\refint\VOL.MES.dll
+D:\Develop\Develop_API\源代码\vol.api\VOL.MES\obj\Debug\net8.0\VOL.MES.pdb
+D:\Develop\Develop_API\源代码\vol.api\VOL.MES\obj\Debug\net8.0\ref\VOL.MES.dll
