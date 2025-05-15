@@ -10635,6 +10635,11 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "AutoMapper >= 6.2.2",
+      "Autofac >= 8.0.0",
+      "Microsoft.EntityFrameworkCore >= 8.0.0",
+      "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.0",
+      "Pomelo.EntityFrameworkCore.MySql >= 8.0.0",
       "VOL.Core >= 1.0.0",
       "VOL.Entity >= 1.0.0"
     ]
@@ -10646,11 +10651,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Develop\\Develop_API\\源代码\\vol.api\\VOL.MES\\VOL.MES.csproj",
-      "projectName": "VOL.MES",
-      "projectPath": "D:\\Develop\\Develop_API\\源代码\\vol.api\\VOL.MES\\VOL.MES.csproj",
+      "projectUniqueName": "D:\\Develop\\Develop_API\\源代码\\vol.api\\VOL.Sys\\VOL.Sys.csproj",
+      "projectName": "VOL.Sys",
+      "projectPath": "D:\\Develop\\Develop_API\\源代码\\vol.api\\VOL.Sys\\VOL.Sys.csproj",
       "packagesPath": "C:\\Users\\22119\\.nuget\\packages\\",
-      "outputPath": "D:\\Develop\\Develop_API\\源代码\\vol.api\\VOL.MES\\obj\\",
+      "outputPath": "D:\\Develop\\Develop_API\\源代码\\vol.api\\VOL.Sys\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -10700,6 +10705,28 @@
     "frameworks": {
       "net8.0": {
         "targetAlias": "net8.0",
+        "dependencies": {
+          "AutoMapper": {
+            "target": "Package",
+            "version": "[6.2.2, )"
+          },
+          "Autofac": {
+            "target": "Package",
+            "version": "[8.0.0, )"
+          },
+          "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[8.0.0, )"
+          },
+          "Microsoft.EntityFrameworkCore.SqlServer": {
+            "target": "Package",
+            "version": "[8.0.0, )"
+          },
+          "Pomelo.EntityFrameworkCore.MySql": {
+            "target": "Package",
+            "version": "[8.0.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
@@ -10712,6 +10739,9 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

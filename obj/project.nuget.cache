@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "grPsU48ndes=",
+  "dgSpecHash": "uRTj8QNEAFE=",
   "success": true,
-  "projectFilePath": "D:\\Develop\\Develop_API\\源代码\\vol.api\\VOL.MES\\VOL.MES.csproj",
+  "projectFilePath": "D:\\Develop\\Develop_API\\源代码\\vol.api\\VOL.Sys\\VOL.Sys.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\22119\\.nuget\\packages\\autofac\\8.0.0\\autofac.8.0.0.nupkg.sha512",
     "C:\\Users\\22119\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",
