@@ -1,0 +1,12 @@
+D:\Develop\Develop_API\源代码\vol.api\VOL.Entity\bin\Debug\net8.0\VOL.Entity.deps.json
+D:\Develop\Develop_API\源代码\vol.api\VOL.Entity\bin\Debug\net8.0\VOL.Entity.dll
+D:\Develop\Develop_API\源代码\vol.api\VOL.Entity\bin\Debug\net8.0\VOL.Entity.pdb
+D:\Develop\Develop_API\源代码\vol.api\VOL.Entity\obj\Debug\net8.0\VOL.Entity.csproj.AssemblyReference.cache
+D:\Develop\Develop_API\源代码\vol.api\VOL.Entity\obj\Debug\net8.0\VOL.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Develop\Develop_API\源代码\vol.api\VOL.Entity\obj\Debug\net8.0\VOL.Entity.AssemblyInfoInputs.cache
+D:\Develop\Develop_API\源代码\vol.api\VOL.Entity\obj\Debug\net8.0\VOL.Entity.AssemblyInfo.cs
+D:\Develop\Develop_API\源代码\vol.api\VOL.Entity\obj\Debug\net8.0\VOL.Entity.csproj.CoreCompileInputs.cache
+D:\Develop\Develop_API\源代码\vol.api\VOL.Entity\obj\Debug\net8.0\VOL.Entity.dll
+D:\Develop\Develop_API\源代码\vol.api\VOL.Entity\obj\Debug\net8.0\refint\VOL.Entity.dll
+D:\Develop\Develop_API\源代码\vol.api\VOL.Entity\obj\Debug\net8.0\VOL.Entity.pdb
+D:\Develop\Develop_API\源代码\vol.api\VOL.Entity\obj\Debug\net8.0\ref\VOL.Entity.dll
