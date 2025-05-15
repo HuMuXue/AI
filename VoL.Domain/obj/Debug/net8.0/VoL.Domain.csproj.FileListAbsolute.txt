@@ -1,0 +1,17 @@
+D:\Develop\Develop_API\源代码\vol.api\VoL.Domain\bin\Debug\net8.0\VoL.Domain.deps.json
+D:\Develop\Develop_API\源代码\vol.api\VoL.Domain\bin\Debug\net8.0\VoL.Domain.dll
+D:\Develop\Develop_API\源代码\vol.api\VoL.Domain\bin\Debug\net8.0\VoL.Domain.pdb
+D:\Develop\Develop_API\源代码\vol.api\VoL.Domain\bin\Debug\net8.0\VOL.Core.dll
+D:\Develop\Develop_API\源代码\vol.api\VoL.Domain\bin\Debug\net8.0\VOL.Entity.dll
+D:\Develop\Develop_API\源代码\vol.api\VoL.Domain\bin\Debug\net8.0\VOL.Core.pdb
+D:\Develop\Develop_API\源代码\vol.api\VoL.Domain\bin\Debug\net8.0\VOL.Entity.pdb
+D:\Develop\Develop_API\源代码\vol.api\VoL.Domain\obj\Debug\net8.0\VoL.Domain.csproj.AssemblyReference.cache
+D:\Develop\Develop_API\源代码\vol.api\VoL.Domain\obj\Debug\net8.0\VoL.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Develop\Develop_API\源代码\vol.api\VoL.Domain\obj\Debug\net8.0\VoL.Domain.AssemblyInfoInputs.cache
+D:\Develop\Develop_API\源代码\vol.api\VoL.Domain\obj\Debug\net8.0\VoL.Domain.AssemblyInfo.cs
+D:\Develop\Develop_API\源代码\vol.api\VoL.Domain\obj\Debug\net8.0\VoL.Domain.csproj.CoreCompileInputs.cache
+D:\Develop\Develop_API\源代码\vol.api\VoL.Domain\obj\Debug\net8.0\VoL.Domain.csproj.Up2Date
+D:\Develop\Develop_API\源代码\vol.api\VoL.Domain\obj\Debug\net8.0\VoL.Domain.dll
+D:\Develop\Develop_API\源代码\vol.api\VoL.Domain\obj\Debug\net8.0\refint\VoL.Domain.dll
+D:\Develop\Develop_API\源代码\vol.api\VoL.Domain\obj\Debug\net8.0\VoL.Domain.pdb
+D:\Develop\Develop_API\源代码\vol.api\VoL.Domain\obj\Debug\net8.0\ref\VoL.Domain.dll
