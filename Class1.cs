@@ -1,8 +1,7 @@
-﻿using System;
-
-namespace VOL.Entity
+﻿namespace VOL.MES
 {
     public class Class1
     {
+
     }
 }
